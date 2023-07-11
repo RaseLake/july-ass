@@ -1,46 +1,71 @@
-body{
-    
-font-family: 'Oswald', sans-serif;
+body {
+
+    font-family: 'Oswald', sans-serif;
 
 }
-.heading{
+
+.heading {
     color: #272727;
 
-font-size: 50px;
-font-style: normal;
-font-weight: 600;
-line-height: normal;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
 }
-.heading2{
-    color: rgba(39, 39, 39, 0.60);
 
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: 30px;
+.paragraph {
+    color: #27272799;
+
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
 }
-.btn-primary{
+
+.btn-primary {
     border-radius: 10px;
-background: #E55473;
-font-size: 20px;
-color: white;
-padding: 15px 30px;
-align-items: flex-start;
-border: 0;
-}
-.container{
-    margin: 0px 200px;
-    display: flex;
-    
-}
-.flow1{
-    width: 400px;
-    position: relative;
-.header{
-    background: rgba(229, 84, 115, 0.10)
-    width: 1920px;
-height: 850px;
-flex-shrink: 0;
+    background: #E55473;
+    font-size: 20px;
+    color: white;
+    padding: 15px 30px;
+    align-items: flex-start;
+    border: 0;
 }
 
-    
+.container {
+    margin: 0px 240px;
+    display: flex;
+
+}
+
+.flow1 {
+    width: 380px;
+}
+
+
+.headath {
+    background: rgba(229, 84, 115, 0.10);
+
+}
+
+.flow1 {
+    float: right;
+}
+
+/* section style type */
+
+.section-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding: 50px 764px 0px;
+}
+
+.title-description {
+    text-align: center;
+    padding: 0px 660px 20px;
+    width: 594px;
+}
