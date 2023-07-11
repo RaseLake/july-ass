@@ -40,6 +40,7 @@ body {
 
 .flow1 {
     width: 380px;
+    float: right;
 }
 
 
@@ -48,9 +49,7 @@ body {
 
 }
 
-.flow1 {
-    float: right;
-}
+
 
 /* section style type */
 
@@ -66,6 +65,43 @@ body {
 
 .title-description {
     text-align: center;
-    padding: 0px 660px 20px;
+    padding: 0px 660px ;
     width: 594px;
+}
+
+/* hot deal section */
+.flow2 {
+    float: right;
+    width: 380px;
+    margin: 0px 150px 50px 100px;
+
+}
+
+.hot-deal {
+    display: flex;
+    margin: 230px 420px 0px 423px;
+    font-size: 25px;
+
+}
+
+.offer-color {
+    color: #E55473;
+}
+
+.title-description2 {
+    width: 594px;
+}
+
+/* third part */
+
+.insta{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    padding: 50px 764px 0px;
+   
+}
+.insta-description{
+    text-align: center;
+    padding: ;
 }
