@@ -170,3 +170,32 @@ body {
     margin-left: 10px;
 
   }
+  .footer {
+    background-color: #060d0d;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 100px;
+  }
+  
+  .flower {
+    color: #e55473;
+
+  }
+  
+  .footer p {
+    margin: 10px 0;
+  }
+  
+  .heading-size{
+    font-size: 20px;
+    margin-bottom: 2px;
+  }
+  .heading-size2{
+    font-size: 12px;
+    margin-top: 2px;
+  }
+  
+  .cr {
+    font-size: 10px;
+  }
