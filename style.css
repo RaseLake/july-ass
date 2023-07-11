@@ -107,12 +107,12 @@ body {
 }
 
 .anchor {
-    text-decoration: none;
+    text-decoration: underline;
     color: black;
     font-size: 16px;
     margin-top: 10px;
-    position: absolute;
-    
+position: absolute; 
+    justify-content: center;
   }
 
 /* hot deal section */
