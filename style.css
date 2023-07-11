@@ -69,6 +69,52 @@ body {
     width: 594px;
 }
 
+
+
+.bonus-part{
+    display: flex;
+    justify-content: center;
+  
+}
+.semicircle {
+    width: 232px;
+    height: 269px;
+    border-radius: 250px 250px 0 0;
+    background: rgba(167, 33, 98, 0.15);
+    position: relative;
+  }
+  
+  .semicircle img{
+    width: 155px;
+    height: 224px;
+    object-fit: cover;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+  }
+  
+  .semicircle-piece {
+    float: left;
+    margin-left: 20px;
+  }
+  
+
+.bonus-part{
+        display: flex;
+        justify-content: center;
+      
+}
+
+.anchor {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    margin-top: 10px;
+    position: absolute;
+    
+  }
+
 /* hot deal section */
 .flow2 {
     float: right;
